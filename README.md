@@ -1,7 +1,8 @@
 # Tugas 7
 
 
-## Dokumentasi : ![DOKUMENTASI](ss/form.png) ![DOKUMENTASI2](SS/1.png) 
-## Dokumentasi : ![DOKUMENTASI](ss/form.png) ![DOKUMENTASI2](SS/2.png) 
-## Dokumentasi : ![DOKUMENTASI](ss/form.png) ![DOKUMENTASI2](SS/3.png) 
-## Dokumentasi : ![DOKUMENTASI](ss/form.png) ![DOKUMENTASI2](SS/4.png) 
+## Dokumentasi : ![DOKUMENTASI2](SS/1.png) 
+ ![DOKUMENTASI2](SS/2.png) 
+ ![DOKUMENTASI2](SS/3.png) 
+ ![DOKUMENTASI2](SS/4.png) 
+
